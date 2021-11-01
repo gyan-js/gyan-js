@@ -9,5 +9,5 @@
 📜How to reach me: `Gmail`||`gyanshresth03@gmail.com`<BR><BR>
 ⚡Fun Fact: Programming takes upto 60%of my day.<BR><BR>
    
- ![GitHub Stats](https://github-readme-stats.vercel.app/api username=gyan-js &theme=radical)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api username=gyan-js&theme=radical)
 
