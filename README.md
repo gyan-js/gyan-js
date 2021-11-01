@@ -11,7 +11,7 @@
 
    ![Gyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyan-js&show_icons=true)<Br>
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan-js&layout=compact)](https://github.com/gyan-js/github-readme-stats)<br>
-   [![Gyan Shresth's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gyan-js)](https://github.com/gyan-js/github-readme-stats)
+   [![GyanShresth's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gyan-js)](https://github.com/gyan-js/github-readme-stats)
 
 
 
