@@ -10,7 +10,7 @@
 ⚡Fun Fact: Programming takes upto 60% of my day.<BR><BR>
 
    ![Gyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyan-js&show_icons=true)<Br>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam Anand&layout=compact)](https://github.com/Gautam Anand/github-readme-stats)<br>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=localhostd3veloper&layout=compact)](https://github.com/localhostd3veloper /github-readme-stats)<br>
  
 
 
