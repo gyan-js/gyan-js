@@ -15,7 +15,7 @@ const gyan = {
                         insta: "@wtf.itz_gyan",
                         gmail: "gyanshresth03@gmail.com"
                       },
- challenge: "I am building an e-commerce application mainly using react and stripe.js"
+ challenge: "I am building a music application some what like Spotify, but still unique"
 }
 ```
 
