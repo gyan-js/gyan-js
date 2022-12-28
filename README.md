@@ -58,7 +58,7 @@ const gyan = {
 
 <summary><b>⚡ Recently contributed to:</b></summary>
   <br/>
-   <a href="https://github.com/gyan-js"><img alt="My activity graph!" src="https://activity-graph.herokuapp.com/graph?username=gyan-js&custom_title=My%20Contribution%20Graph&theme=react-dark" /></a>
+  [![Gyan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gyan-js)](https://github.com/gyan-js/github-readme-activity-graph)
   <br/>
   
   
