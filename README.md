@@ -47,7 +47,7 @@ const gyan = {
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
+<p align="">
 <a href="https://github.com/gyan-js">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gyan-js&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gyan-js&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
