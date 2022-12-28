@@ -56,7 +56,6 @@ const gyan = {
 
 
 
-<summary><b>⚡ Recently contributed to:</b></summary>
   <br/>
   
   <br/>
