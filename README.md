@@ -58,7 +58,7 @@ const gyan = {
 
 <summary><b>⚡ Recently contributed to:</b></summary>
   <br/>
-  [![Gyan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gyan-js)](https://github.com/gyan-js/github-readme-activity-graph)
+  
   <br/>
   
   
