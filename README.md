@@ -4,6 +4,7 @@
 </p>
 
 ### 👨‍💻 &nbsp; My description in few lines of code
+<hr>
 
 ```javascript
 const gyan = {
@@ -20,6 +21,7 @@ const gyan = {
 ```
 
 ### 🛠 &nbsp;Tech Stack
+<hr>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
@@ -43,33 +45,25 @@ const gyan = {
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+## ❤️ Let's get connected:
 
+<p> <a href="https://www.instagram.com/wtf.itz_gyan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+</p>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
+<hr>
 <p align="">
-<a href="https://github.com/gyan-js">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gyan-js&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gyan-js&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+<a style="text-align: 'center'" href="https://github.com/gyan-js">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gyan-js&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gyan-js&layout=compact&langs_count=8&theme=white&include_all_commits=true&count_private=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyan-js&" alt="gyan" />
 </a>
 </p>
 
 
-
-  <br/>
   
-  <br/>
-  
-  
-  ### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-
-<a href="mailto: gyanshresth03@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-gyanshresth03@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/wtf.itz_gyan/"><img src="https://img.shields.io/badge/-@wtf.itz_gyan_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-
-</p>
-
+ 
 
    
 
