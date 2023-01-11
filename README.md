@@ -13,7 +13,7 @@ const gyan = {
   tools: [React, Node, TailwindCss, Tensorflow, Keras,],
   architecture: ["web-developmenr", "app-development", "AI|ML"],
   connectMeOn: {
-                        insta: "@wtf.itz_gyan",
+                        insta: "_kunaljs_",
                         gmail: "gyanshresth03@gmail.com"
                       },
  challenge: "I am building a music application some what like Spotify, but still unique"
