@@ -47,7 +47,7 @@ const gyan = {
 
 ## ❤️ Let's get connected:
 
-<p> <a href="https://www.instagram.com/wtf.itz_gyan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<p> <a href="https://www.instagram.com/_kunaljs_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
   <a href="mailto:gyanshresth03@gmail.com" target="_blank"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px" /> </a>
 </p>
 
