@@ -12,7 +12,7 @@ const gyan = {
   code: [Javascript, HTML, CSS, Python, Dart, Solidity],
   tools: [React, Node, TailwindCss, Tensorflow, Keras,],
   architecture: ["web-developmenr", "app-development", "AI|ML"],
-  connectMeOn: {
+  conectMeOn: {
                         insta: "@_kunaljs_",
                         gmail: "gyanshresth03@gmail.com"
                       },
