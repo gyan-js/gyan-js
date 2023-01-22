@@ -16,32 +16,38 @@ const gyan = {
                         insta: "@_kunaljs_",
                         gmail: "gyanshresth03@gmail.com"
                       },
+ learning: "Curently learning GoLang on Educative and Exercism",
  challenge: "I am building a music application some what like Spotify, but still unique"
 }
 ```
 
 ### 🛠 &nbsp;Tech Stack
 <hr>
-<a href="https://www.instagram.com/wtf.itz_gyan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"  height="25px"/></a>
-<a href="https://www.instagram.com/wtf.itz_gyan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"  height="25px"/></a>
-<a href="https://www.instagram.com/wtf.itz_gyan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white"  height="25px"/></a></br>
-<br>
-<a href="https://www.instagram.com/wtf.itz_gyan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"  height="25px"/></a>
-<a href="https://www.instagram.com/wtf.itz_gyan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"  height="25px"/></a>
-<a href="https://www.instagram.com/wtf.itz_gyan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"  height="25px"/></a>
-<a href="https://www.instagram.com/wtf.itz_gyan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=Node.Js"  height="25px"/></a>
-<a href="https://www.instagram.com/wtf.itz_gyan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"  height="25px"/></a></br>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 <br>
 
-<a href="https://www.instagram.com/wtf.itz_gyan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity"  height="25px"/></a>
-<a href="https://www.instagram.com/wtf.itz_gyan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart"  height="25px"/></a></br>
-<br>
-<a href="https://www.instagram.com/wtf.itz_gyan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"  height="25px"/></a>
-<a href="https://www.instagram.com/wtf.itz_gyan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"  height="25px"/></a></br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<a href="https://www.instagram.com/wtf.itz_gyan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/WebStorm-143?style=flat&logo=webstorm&logoColor=black&color=black&labelColor=blue"  height="25px"/></a>
-<a href="https://www.instagram.com/wtf.itz_gyan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/PyCharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green"  height="25px"/></a>
-<a href="https://www.instagram.com/wtf.itz_gyan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"  height="25px"/></a>
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<br>
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+<br>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 
