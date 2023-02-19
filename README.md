@@ -17,7 +17,7 @@ const gyan = {
                         gmail: "gyanshresth03@gmail.com"
                       },
  learning: "Curently learning GoLang on Educative and Exercism",
- challenge: "I am building a music application some what like Spotify, but still unique"
+ challenge: "Currently working on a blog applocation"
 }
 ```
 
