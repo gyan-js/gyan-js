@@ -17,7 +17,7 @@ const gyan = {
                         gmail: "gyanshresth03@gmail.com"
                       },
  learning: "Curently learning GoLang on Educative and Exercism",
- challenge: "Currently working on a blog applocation"
+ challenge: "Currently working on a blog application"
 }
 ```
 
