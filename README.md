@@ -13,11 +13,11 @@ const gyan = {
   tools: [React, Node, TailwindCss, Tensorflow, Keras,],
   architecture: ["web-developmenr", "app-development", "AI|ML"],
   connectMeOn: {
-                        insta: "@_kunaljs_",
+                        insta: "@_gyanjs_",
                         gmail: "gyanshresth03@gmail.com"
                       },
- learning: "Curently learning GoLang on Educative and Exercism",
- challenge: "Currently working on a blog application"
+ learning: "Curently exploring more on  AI|ML with Python",
+ challenge: "Currently developing a planner android application"
 }
 ```
 
@@ -38,7 +38,6 @@ const gyan = {
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <br>
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 <br>
 
