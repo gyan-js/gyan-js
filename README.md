@@ -16,8 +16,8 @@ const gyan = {
                         insta: "NA",
                         gmail: "gyanshresth03@gmail.com"
                       },
- learning: "Curently exploring more on  AI|ML with Python",
- challenge: "Currently developing a planner android application"
+ learning: "Curently learning C++, with system-level C++ in mind, eventually building a foundation for CUDA",
+ challenge: "Currently building a research-grade ML toolkit - Neuralveil"
 }
 ```
 
