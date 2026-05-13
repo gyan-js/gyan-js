@@ -9,11 +9,11 @@
 ```javascript
 const gyan = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, Dart, Solidity],
-  tools: [React, Node, TailwindCss, Tensorflow, Keras,],
-  architecture: ["web-developmenr", "app-development", "AI|ML"],
+  code: [Javascript, HTML, CSS, Python, Solidity],
+  tools: [React, Node, TailwindCss, Pytorch, Tensorflow, Keras,],
+  architecture: ["fullstack-developmenr", "android-development", "AI|ML"],
   connectMeOn: {
-                        insta: "@_gyanjs_",
+                        insta: "NA",
                         gmail: "gyanshresth03@gmail.com"
                       },
  learning: "Curently exploring more on  AI|ML with Python",
